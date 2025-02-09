@@ -66,16 +66,17 @@ img {
 }
 
 header {
-  background:linear-gradient(
+  /* background:linear-gradient(
     rgba(0, 0, 0, 0.5),
     rgba(0, 0, 0, 0.5)
-  ), url("../images/back8.jpeg") no-repeat;
-   /* background:linear-gradient(
+  ), url("../images/back8.jpeg") no-repeat; */
+   background:linear-gradient(
     rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 0.912)
-  ), url("../images/lambo2.png") no-repeat; */
+    rgba(0, 0, 0, 0.5)
+  ), url("../images/lambo1.png") no-repeat;
   background-size: 2800px;
-  background-position: -5em -60em;
+  /* background-position: -5em -60em; */
+  background-position: -5em -40em;
   text-align: center;
   position: relative;
   height: 400px;
