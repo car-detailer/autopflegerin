@@ -347,7 +347,7 @@
 
   #contacts {
     background-size: 960px;
-    background-position: -5em -15em;
+    background-position: -5em -13em;
     height: 170px;
   }
 
@@ -388,6 +388,7 @@
 
   .title p {
     margin: 1em;
+    padding: 0 5em;
     font-size: 0.9em;
   }
 
