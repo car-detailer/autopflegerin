@@ -70,7 +70,7 @@ img {
 }
 
 header {
-  
+
   /* background:linear-gradient(
     rgba(0, 0, 0, 0.5),
     rgba(0, 0, 0, 0.5)
@@ -398,7 +398,8 @@ button:hover {
 }
 
 .tab_section {
-  background-color: #12121299;
+  /* background-color: #12121299; */
+  background-color: #333043af;
 }
 
 .details_menu {
