@@ -631,9 +631,9 @@
   }
 
   #details {
-    background-size: 600px;
-    background-position: -8em -4.5em;
-    height: 250px;
+    background-size: 470px;
+    background-position: -3.5em 0;
+    height: 230px;
     padding: 1em 0 1em 0;
   }
 
@@ -669,6 +669,10 @@
   }
 
   #contacts {
+     background:linear-gradient(
+    rgba(0, 0, 0, 0.4),
+    rgba(0, 0, 0, 0.4)
+  ), url("../images/lambo2.png") no-repeat;
     background-size: 530px;
     background-position: -7em -9em;
     height: 170px;

@@ -66,7 +66,14 @@ img {
 }
 
 header {
-  background: url("../images/back8.jpeg") no-repeat;
+  background:linear-gradient(
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)
+  ), url("../images/back8.jpeg") no-repeat;
+   /* background:linear-gradient(
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.912)
+  ), url("../images/lambo2.png") no-repeat; */
   background-size: 2800px;
   background-position: -5em -60em;
   text-align: center;
@@ -378,16 +385,18 @@ button:hover {
 
 /* main inform block*/
 #details {
-  background: url("../images/back10.jpeg") no-repeat;
+  /* background: url("../images/back10.jpeg") no-repeat; */
+  background: url("../images/porsche.png") no-repeat;
   background-size: 2750px;
-  background-position: 0 -47em;
+  /* background-position: 0 -47em; */
+  background-position: 0 -32em;
   padding: 0;
   position: relative;
   z-index: 900;
 }
 
 .tab_section {
-  background-color: #111112f0;
+  background-color: #12121299;
 }
 
 .details_menu {
@@ -652,7 +661,7 @@ footer {
   font-size: 20px;
   cursor: pointer;
   text-align: center;
-  padding: 10px 30px;
+  padding: 8px 30px;
   background-color: #525060af;
   width: 100%;
   margin-bottom: 0.5em;
